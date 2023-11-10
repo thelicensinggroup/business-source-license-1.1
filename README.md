@@ -1,3 +1,3 @@
-# Ritchy Permissive License v16
+# Business Source License 1.1
 
-View at: https://thelicensinggroup.github.io/ritchey-permissive-license-v16
+View at: https://thelicensinggroup.github.io/business-source-license-1.1
